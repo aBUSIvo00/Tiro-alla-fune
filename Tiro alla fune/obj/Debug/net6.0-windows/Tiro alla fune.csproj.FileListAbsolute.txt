@@ -1,0 +1,17 @@
+C:\Users\busi.20132\Desktop\Tiro alla fune\bin\Debug\net6.0-windows\Tiro alla fune.exe
+C:\Users\busi.20132\Desktop\Tiro alla fune\bin\Debug\net6.0-windows\Tiro alla fune.deps.json
+C:\Users\busi.20132\Desktop\Tiro alla fune\bin\Debug\net6.0-windows\Tiro alla fune.runtimeconfig.json
+C:\Users\busi.20132\Desktop\Tiro alla fune\bin\Debug\net6.0-windows\Tiro alla fune.dll
+C:\Users\busi.20132\Desktop\Tiro alla fune\bin\Debug\net6.0-windows\Tiro alla fune.pdb
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro_alla_fune.Form1.resources
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro_alla_fune.Properties.Resources.resources
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.csproj.GenerateResource.cache
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.AssemblyInfoInputs.cache
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.AssemblyInfo.cs
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.csproj.CoreCompileInputs.cache
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.dll
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\refint\Tiro alla fune.dll
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.pdb
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.genruntimeconfig.cache
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\ref\Tiro alla fune.dll
